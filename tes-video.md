@@ -1,6 +1,1 @@
----
-title: "Watch Full Video Now"
-description: "Click to watch the trending video directly on GitFon."
----
-# Full Video ⤵️⤵️⤵️
-🔴 ➤► WATCH ✅👉 https://gitfon.com/watch/
+[![Video Title](https://img.youtube.com/vi/eMR4Sf4ovNM/0.jpg)](https://www.youtube.com/watch?v=eMR4Sf4ovNM)
